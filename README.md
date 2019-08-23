@@ -11,7 +11,7 @@ A Roll A Ball 3D Game
 - Shaders With GLSL (The Shading Language For OpenGL)
 - Materials.
 - Normal Mapping.
-- Sky Boxkes.
+- Sky Boxes.
 - FrameBuffers, Rendering To A Texture, Post Processing.
 - Lighting.
 - Shadow Mapping.
